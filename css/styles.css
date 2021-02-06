@@ -431,8 +431,8 @@ form .right {
         padding-left: 0;
     }
 
-    .last-section .content {
-        gap: 2rem;
+    .last-section .content h1 {
+        margin-bottom: 2rem;
     }
 
     .last-section .content > .content-right {
